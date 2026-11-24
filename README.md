@@ -16,7 +16,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-4. Open http://127.0.0.1:5000 in your browser.
+4. Open https://xspzc94pm9-sudo.github.io/WashWise/ in your browser.
 
 ## Demo logins
 
